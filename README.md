@@ -1,2 +1,4 @@
 # simon-game
-A simple game I have created using HTML, CSS, JavaScript, jQuery
+How long a sequence can you remember?
+A simple popular game I have implemented using HTML, CSS, JavaScript, jQuery.
+
