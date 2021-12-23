@@ -94,4 +94,4 @@ $("div .btn").on("click", function(e){
 
 });
 
-//ouf
+//Thats ok for today
