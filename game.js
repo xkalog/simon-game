@@ -94,7 +94,4 @@ $("div .btn").on("click", function(e){
 
 });
 
-// kala crasia
-//good wines
-//final
-//ante na doume ti tha doume
+// travaw mia kokkini grammi
